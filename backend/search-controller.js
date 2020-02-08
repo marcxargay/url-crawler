@@ -105,4 +105,5 @@ const saveToDb = (arr) => {
     })
   }
 }
+
 module.exports = { search };
